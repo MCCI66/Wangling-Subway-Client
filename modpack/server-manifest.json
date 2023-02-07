@@ -1,0 +1,103 @@
+{
+  "name": "[Optifine]Wangling-Subway-Client",
+  "author": "MCCI66",
+  "version": "v1",
+  "description": "",
+  "fileApi": "https://gitee.com/mcci66/wangling-subway-client/tree/master/Optifine/modpack",
+  "files": [
+    {
+      "path": "mods/Adorn-2.3.0+1.17.1-forge.jar",
+      "hash": "a44008bc3022aed512b205f1e9512364e62f6b84"
+    },
+    {
+      "path": "mods/architectury-2.10.12.jar",
+      "hash": "28d2afcf0dafae570803e37dbc00b405ae589898"
+    },
+    {
+      "path": "mods/catalogue-1.5.0-1.17.1.jar",
+      "hash": "d054de3634004a1620c1aeb498869f3e85f4acba"
+    },
+    {
+      "path": "mods/configured-1.5.1-1.17.1.jar",
+      "hash": "2609ada85a0a49cd1d9029fde8607e64254bab1d"
+    },
+    {
+      "path": "mods/Joban-Client-Mod-1.17.1-1.1.9.jar",
+      "hash": "60716b8dee17d9fa03c18b2871f2bcb4f7d2be43"
+    },
+    {
+      "path": "mods/kotlinforforge-2.2.0-obf.jar",
+      "hash": "179f5081083e17c2953fd5762fa9aa0d7b00fa95"
+    },
+    {
+      "path": "mods/MTR-forge-1.17.1-3.2.0.jar",
+      "hash": "db6245132debd19e470f00815c1c6d061cc69c7e"
+    },
+    {
+      "path": "mods/MTR-NTE-fabric-1.17.1-0.2.3.jar",
+      "hash": "4d4d28fac6973d2d0ed1db3e224c5fb6c0c84d08"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.7.jar",
+      "hash": "336fe4d409ce07a7d07d9016b305530b1013ea09"
+    },
+    {
+      "path": "Package.BakaCoreInfo",
+      "hash": "a371ba8431b3d359af1696af7ae3909b0c03deaf"
+    },
+    {
+      "path": "resourcepacks/GZBRT-rabbit-above rail.zip",
+      "hash": "923dfc7e4ca23e25a1a9d32b1c20b80273b926f0"
+    },
+    {
+      "path": "resourcepacks/GZBRT-rabbit-on rail.zip",
+      "hash": "00a299c45f57a15fd3a37aa7547bd7641577df53"
+    },
+    {
+      "path": "resourcepacks/Kahin KangXinBus KML1750AF - OnGround.zip",
+      "hash": "029dde75a2e1124a846f301353b723162bd527f2"
+    },
+    {
+      "path": "resourcepacks/Kahin KangXinBus KML1750AF.zip",
+      "hash": "4a9ae5641dd73d69259e9ddb81050c1db1540879"
+    },
+    {
+      "path": "resourcepacks/lizishu_bus_3_1.zip",
+      "hash": "fa33c1cd9923924ec9a53693b9c604f004c060e3"
+    },
+    {
+      "path": "resourcepacks/Yutong_U12_ElectricBus_addon_v1.1_-__.zip",
+      "hash": "5bd10f5bb53c99d8f09254a7954b3f344d63211c"
+    },
+    {
+      "path": "resourcepacks/北京地铁追加包 Beta 2.4.zip",
+      "hash": "0fb1014fecbd793e6c2e281cdecdac37fe605777"
+    },
+    {
+      "path": "resourcepacks/杭州地铁追加包 V1.5.zip",
+      "hash": "3dfa15b3a8635efdf03f28595adcc5854e183a32"
+    },
+    {
+      "path": "resourcepacks/缆车双开门版本2023.zip",
+      "hash": "2ac825e5239524ed10f71e08a8b7f1d97b5344fa"
+    },
+    {
+      "path": "resourcepacks/重庆轨道交通追加1.2.zip",
+      "hash": "e07bdb5879f856b1e05312fd1cc01f56cac52cd7"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.17.1"
+    },
+    {
+      "id": "forge",
+      "version": "37.1.1"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_H1"
+    }
+  ]
+}
